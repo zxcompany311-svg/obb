@@ -1,0 +1,8 @@
+streamlit
+Pillow
+numpy
+imagehash
+pandas
+openai
+requests
+openpyxl
